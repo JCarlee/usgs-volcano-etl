@@ -1,6 +1,6 @@
 # USGS Volcano Data ETL Script
 
-A Python script to fetch the latest USGS volcano data and update an ArcGIS Portal feature layer automatically.
+Python script to fetch the latest USGS volcano data and update an ArcGIS Portal feature layer automatically.
 
 ## Features
 
